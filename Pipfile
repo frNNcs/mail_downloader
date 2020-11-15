@@ -9,6 +9,7 @@ google-auth-httplib2 = "*"
 google-auth-oauthlib = "*"
 python-dateutil = "*"
 console-progressbar = "*"
+bs4 = "*"
 
 [dev-packages]
 pylint = "*"
